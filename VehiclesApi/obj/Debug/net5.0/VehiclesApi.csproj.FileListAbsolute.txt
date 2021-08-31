@@ -149,3 +149,15 @@ C:\Users\crist\Desktop\ITM 2021-2\PROGRAMACIÓN DISTRIBUIDA\VehiclesProject\Vehi
 C:\Users\crist\Desktop\ITM 2021-2\PROGRAMACIÓN DISTRIBUIDA\VehiclesProject\VehiclesApi\obj\Debug\net5.0\Razor\Views\VehicleTypes\Index.cshtml.g.cs
 C:\Users\crist\Desktop\ITM 2021-2\PROGRAMACIÓN DISTRIBUIDA\VehiclesProject\VehiclesApi\obj\Debug\net5.0\Razor\Views\Shared\_DeleteDialog.cshtml.g.cs
 C:\Users\crist\Desktop\ITM 2021-2\PROGRAMACIÓN DISTRIBUIDA\VehiclesProject\VehiclesApi\obj\Debug\net5.0\Razor\Views\VehicleTypes\_VehicleType.cshtml.g.cs
+C:\Users\crist\Desktop\ITM 2021-2\PROGRAMACIÓN DISTRIBUIDA\VehiclesProject\VehiclesApi\obj\Debug\net5.0\Razor\Views\Procedures\Index.cshtml.g.cs
+C:\Users\crist\Desktop\ITM 2021-2\PROGRAMACIÓN DISTRIBUIDA\VehiclesProject\VehiclesApi\obj\Debug\net5.0\Razor\Views\Procedures\Create.cshtml.g.cs
+C:\Users\crist\Desktop\ITM 2021-2\PROGRAMACIÓN DISTRIBUIDA\VehiclesProject\VehiclesApi\obj\Debug\net5.0\Razor\Views\Procedures\_Procedure.cshtml.g.cs
+C:\Users\crist\Desktop\ITM 2021-2\PROGRAMACIÓN DISTRIBUIDA\VehiclesProject\VehiclesApi\obj\Debug\net5.0\Razor\Views\Procedures\Edit.cshtml.g.cs
+C:\Users\crist\Desktop\ITM 2021-2\PROGRAMACIÓN DISTRIBUIDA\VehiclesProject\VehiclesApi\obj\Debug\net5.0\Razor\Views\Brands\Index.cshtml.g.cs
+C:\Users\crist\Desktop\ITM 2021-2\PROGRAMACIÓN DISTRIBUIDA\VehiclesProject\VehiclesApi\obj\Debug\net5.0\Razor\Views\Brands\Create.cshtml.g.cs
+C:\Users\crist\Desktop\ITM 2021-2\PROGRAMACIÓN DISTRIBUIDA\VehiclesProject\VehiclesApi\obj\Debug\net5.0\Razor\Views\Brands\Edit.cshtml.g.cs
+C:\Users\crist\Desktop\ITM 2021-2\PROGRAMACIÓN DISTRIBUIDA\VehiclesProject\VehiclesApi\obj\Debug\net5.0\Razor\Views\DocumentTypes\Index.cshtml.g.cs
+C:\Users\crist\Desktop\ITM 2021-2\PROGRAMACIÓN DISTRIBUIDA\VehiclesProject\VehiclesApi\obj\Debug\net5.0\Razor\Views\DocumentTypes\Create.cshtml.g.cs
+C:\Users\crist\Desktop\ITM 2021-2\PROGRAMACIÓN DISTRIBUIDA\VehiclesProject\VehiclesApi\obj\Debug\net5.0\Razor\Views\Brands\_Brand.cshtml.g.cs
+C:\Users\crist\Desktop\ITM 2021-2\PROGRAMACIÓN DISTRIBUIDA\VehiclesProject\VehiclesApi\obj\Debug\net5.0\Razor\Views\DocumentTypes\Edit.cshtml.g.cs
+C:\Users\crist\Desktop\ITM 2021-2\PROGRAMACIÓN DISTRIBUIDA\VehiclesProject\VehiclesApi\obj\Debug\net5.0\Razor\Views\DocumentTypes\_DocumentType.cshtml.g.cs
