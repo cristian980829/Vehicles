@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using System.Threading.Tasks;
 using VehiclesApi.Data.Entities;
+using VehiclesApi.Models;
 
 namespace VehiclesApi.Helpers
 {
@@ -15,5 +16,9 @@ namespace VehiclesApi.Helpers
         Task AddUserToRoleAsync(User user, string roleName);
 
         Task<bool> IsUserInRoleAsync(User user, string roleName);
+
+        Task<SignInResult> LoginAsync(LoginViewModel model);
+
+        Task LogoutAsync();
     }
 }

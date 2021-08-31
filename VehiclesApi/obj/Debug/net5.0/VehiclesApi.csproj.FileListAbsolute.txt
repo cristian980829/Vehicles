@@ -168,3 +168,4 @@ C:\Users\crist\Desktop\ITM 2021-2\PROGRAMACIÓN DISTRIBUIDA\VehiclesProject\Vehi
 C:\Users\crist\Desktop\ITM 2021-2\PROGRAMACIÓN DISTRIBUIDA\VehiclesProject\VehiclesApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
 C:\Users\crist\Desktop\ITM 2021-2\PROGRAMACIÓN DISTRIBUIDA\VehiclesProject\VehiclesApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
 C:\Users\crist\Desktop\ITM 2021-2\PROGRAMACIÓN DISTRIBUIDA\VehiclesProject\VehiclesApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\crist\Desktop\ITM 2021-2\PROGRAMACIÓN DISTRIBUIDA\VehiclesProject\VehiclesApi\obj\Debug\net5.0\Razor\Views\Account\Login.cshtml.g.cs

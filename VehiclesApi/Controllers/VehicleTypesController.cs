@@ -1,15 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
+using System;
+using System.Threading.Tasks;
 using VehiclesApi.Data;
 using VehiclesApi.Data.Entities;
 
 namespace VehiclesApi.Controllers
 {
+    [Authorize(Roles = "Admin")]
     public class VehicleTypesController : Controller
     {
         private readonly DataContext _context;
@@ -25,7 +24,7 @@ namespace VehiclesApi.Controllers
             return View(await _context.VehicleType.ToListAsync());
         }
 
-       
+
 
         // GET: VehicleTypes/Create
         public IActionResult Create()
