@@ -1,0 +1,12 @@
+C:\Users\crist\Desktop\ITM 2021-2\PROGRAMACIÓN DISTRIBUIDA\VehiclesProject\Vehicles.Commno\bin\Debug\net5.0\Vehicles.Common.deps.json
+C:\Users\crist\Desktop\ITM 2021-2\PROGRAMACIÓN DISTRIBUIDA\VehiclesProject\Vehicles.Commno\bin\Debug\net5.0\Vehicles.Common.dll
+C:\Users\crist\Desktop\ITM 2021-2\PROGRAMACIÓN DISTRIBUIDA\VehiclesProject\Vehicles.Commno\bin\Debug\net5.0\ref\Vehicles.Common.dll
+C:\Users\crist\Desktop\ITM 2021-2\PROGRAMACIÓN DISTRIBUIDA\VehiclesProject\Vehicles.Commno\bin\Debug\net5.0\Vehicles.Common.pdb
+C:\Users\crist\Desktop\ITM 2021-2\PROGRAMACIÓN DISTRIBUIDA\VehiclesProject\Vehicles.Commno\obj\Debug\net5.0\Vehicles.Common.csproj.AssemblyReference.cache
+C:\Users\crist\Desktop\ITM 2021-2\PROGRAMACIÓN DISTRIBUIDA\VehiclesProject\Vehicles.Commno\obj\Debug\net5.0\Vehicles.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\crist\Desktop\ITM 2021-2\PROGRAMACIÓN DISTRIBUIDA\VehiclesProject\Vehicles.Commno\obj\Debug\net5.0\Vehicles.Common.AssemblyInfoInputs.cache
+C:\Users\crist\Desktop\ITM 2021-2\PROGRAMACIÓN DISTRIBUIDA\VehiclesProject\Vehicles.Commno\obj\Debug\net5.0\Vehicles.Common.AssemblyInfo.cs
+C:\Users\crist\Desktop\ITM 2021-2\PROGRAMACIÓN DISTRIBUIDA\VehiclesProject\Vehicles.Commno\obj\Debug\net5.0\Vehicles.Common.csproj.CoreCompileInputs.cache
+C:\Users\crist\Desktop\ITM 2021-2\PROGRAMACIÓN DISTRIBUIDA\VehiclesProject\Vehicles.Commno\obj\Debug\net5.0\Vehicles.Common.dll
+C:\Users\crist\Desktop\ITM 2021-2\PROGRAMACIÓN DISTRIBUIDA\VehiclesProject\Vehicles.Commno\obj\Debug\net5.0\ref\Vehicles.Common.dll
+C:\Users\crist\Desktop\ITM 2021-2\PROGRAMACIÓN DISTRIBUIDA\VehiclesProject\Vehicles.Commno\obj\Debug\net5.0\Vehicles.Common.pdb

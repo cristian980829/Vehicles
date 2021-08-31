@@ -15,9 +15,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\crist\\Desktop\\ITM 2021-2\\PROGRAMACIÓN DISTRIBUIDA\\VehiclesProject\\Vehicles.Commno\\Vehicles.Commno.csproj",
-      "projectName": "Vehicles.Commno",
-      "projectPath": "C:\\Users\\crist\\Desktop\\ITM 2021-2\\PROGRAMACIÓN DISTRIBUIDA\\VehiclesProject\\Vehicles.Commno\\Vehicles.Commno.csproj",
+      "projectUniqueName": "C:\\Users\\crist\\Desktop\\ITM 2021-2\\PROGRAMACIÓN DISTRIBUIDA\\VehiclesProject\\Vehicles.Commno\\Vehicles.Common.csproj",
+      "projectName": "Vehicles.Common",
+      "projectPath": "C:\\Users\\crist\\Desktop\\ITM 2021-2\\PROGRAMACIÓN DISTRIBUIDA\\VehiclesProject\\Vehicles.Commno\\Vehicles.Common.csproj",
       "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\crist\\Desktop\\ITM 2021-2\\PROGRAMACIÓN DISTRIBUIDA\\VehiclesProject\\Vehicles.Commno\\obj\\",
       "projectStyle": "PackageReference",
